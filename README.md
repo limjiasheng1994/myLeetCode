@@ -1,2 +1,2 @@
 # myLeetCode
-My LeetCode Submissions
+This repo is to document my LeetCode submissions for future reference.
